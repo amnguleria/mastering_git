@@ -1,5 +1,5 @@
-## Heooyo everyone welcom to my Git
+## Welcome to Git
 
-- Yo
+- This is coming from dev-adrian
 
 - I am adding code in feature branch
